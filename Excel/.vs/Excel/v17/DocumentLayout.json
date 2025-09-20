@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\27783\\Music\\Interview Orcaa ai\\Excel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED18F9A5-D81A-46BC-AE33-37563783D211}|Excel\\Excel.csproj|c:\\users\\27783\\music\\interview orcaa ai\\excel\\excel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED18F9A5-D81A-46BC-AE33-37563783D211}|Excel\\Excel.csproj|solutionrelative:excel\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED18F9A5-D81A-46BC-AE33-37563783D211}|Excel\\Excel.csproj|c:\\users\\27783\\music\\interview orcaa ai\\excel\\excel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED18F9A5-D81A-46BC-AE33-37563783D211}|Excel\\Excel.csproj|solutionrelative:excel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\27783\\Music\\Interview Orcaa ai\\Excel\\Excel\\Migrations\\20250919133728_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Excel\\Migrations\\20250919133728_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED18F9A5-D81A-46BC-AE33-37563783D211}|Excel\\Excel.csproj|c:\\users\\27783\\music\\interview orcaa ai\\excel\\excel\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED18F9A5-D81A-46BC-AE33-37563783D211}|Excel\\Excel.csproj|solutionrelative:excel\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED18F9A5-D81A-46BC-AE33-37563783D211}|Excel\\Excel.csproj|c:\\users\\27783\\music\\interview orcaa ai\\excel\\excel\\models\\records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED18F9A5-D81A-46BC-AE33-37563783D211}|Excel\\Excel.csproj|solutionrelative:excel\\models\\records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED18F9A5-D81A-46BC-AE33-37563783D211}|Excel\\Excel.csproj|c:\\users\\27783\\music\\interview orcaa ai\\excel\\excel\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED18F9A5-D81A-46BC-AE33-37563783D211}|Excel\\Excel.csproj|solutionrelative:excel\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250919133728_initial.cs",
+              "DocumentMoniker": "C:\\Users\\27783\\Music\\Interview Orcaa ai\\Excel\\Excel\\Migrations\\20250919133728_initial.cs",
+              "RelativeDocumentMoniker": "Excel\\Migrations\\20250919133728_initial.cs",
+              "ToolTip": "C:\\Users\\27783\\Music\\Interview Orcaa ai\\Excel\\Excel\\Migrations\\20250919133728_initial.cs",
+              "RelativeToolTip": "Excel\\Migrations\\20250919133728_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:37:30.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\27783\\Music\\Interview Orcaa ai\\Excel\\Excel\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Excel\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\27783\\Music\\Interview Orcaa ai\\Excel\\Excel\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Excel\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:22:31.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Records.cs",
+              "DocumentMoniker": "C:\\Users\\27783\\Music\\Interview Orcaa ai\\Excel\\Excel\\Models\\Records.cs",
+              "RelativeDocumentMoniker": "Excel\\Models\\Records.cs",
+              "ToolTip": "C:\\Users\\27783\\Music\\Interview Orcaa ai\\Excel\\Excel\\Models\\Records.cs",
+              "RelativeToolTip": "Excel\\Models\\Records.cs",
+              "ViewState": "AgIAAA4AAAAAz8zMzMz8vxcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:18:31.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\27783\\Music\\Interview Orcaa ai\\Excel\\Excel\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "Excel\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\27783\\Music\\Interview Orcaa ai\\Excel\\Excel\\Models\\Users.cs",
+              "RelativeToolTip": "Excel\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:16:17.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\27783\\Music\\Interview Orcaa ai\\Excel\\Excel\\Program.cs",
+              "RelativeDocumentMoniker": "Excel\\Program.cs",
+              "ToolTip": "C:\\Users\\27783\\Music\\Interview Orcaa ai\\Excel\\Excel\\Program.cs",
+              "RelativeToolTip": "Excel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:10:09.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\27783\\Music\\Interview Orcaa ai\\Excel\\Excel\\appsettings.json",
+              "RelativeDocumentMoniker": "Excel\\appsettings.json",
+              "ToolTip": "C:\\Users\\27783\\Music\\Interview Orcaa ai\\Excel\\Excel\\appsettings.json",
+              "RelativeToolTip": "Excel\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-19T13:05:22.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
